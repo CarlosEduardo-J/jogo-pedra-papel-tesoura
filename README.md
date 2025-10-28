@@ -25,11 +25,11 @@ Abra seu terminal ou prompt de comando e clone o projeto.
 ```bash
 git clone https://github.com/CarlosEduardo-J/jogo-pedra-papel-tesoura
 cd jogo-pedra-papel-tesoura
----
+
 
 ### 3. Executar o Jogo
 
-Rode o script principal diretamente no terminal.
+Rode o script principal diretamente no terminal:
 
 ```bash
 python jogo_pedra_papel_tesoura.py
