@@ -50,11 +50,3 @@ python jogo_pedra_papel_tesoura.py
 
 ## 🤝 Contribuição
 Sinta-se à vontade para explorar, sugerir melhorias ou reportar bugs. Toda contribuição é bem-vinda, especialmente em projetos de aprendizado!
-
-
----
-
-Para subir as alterações para o seu repositório, use o seguinte comando de commit:
-
-```bash
-git commit -m "docs: Adiciona detalhes técnicos e melhora a estrutura do README"
